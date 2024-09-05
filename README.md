@@ -7,5 +7,9 @@ Dependencies
 * S-RTTI
 * abap2xlsx
 
+Content
+* App to Upload XLSX to Table
+* App to Download Table to XLSX
+  
 TODO
 * Create Popups to Upload/Download Table Content
