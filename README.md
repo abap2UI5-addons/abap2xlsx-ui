@@ -11,5 +11,5 @@ Content
 * App to Upload XLSX to Table
 * App to Download Table to XLSX
   
-TODO
+Todo
 * Create Popups to Upload/Download Table Content
