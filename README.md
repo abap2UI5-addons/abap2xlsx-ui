@@ -1,4 +1,4 @@
-# abap2xlsx-ui
+# xlsx
 ___Work in Progress... - PRs Welcome 🚧 🏗️___
 
 UIs for the Open Source Project [**abap2xlsx**](https://github.com/abap2xlsx/abap2xlsx)
